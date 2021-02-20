@@ -1,0 +1,26 @@
+img{
+   float: left;
+   width: 500px;
+   height: 400px;
+   padding: 0 10px 0 0;
+    
+}
+container{
+   margin: 150px auto;
+   width: 50%;
+   padding: 20px;  
+ }
+ text{
+    text-align: justify;
+    font-family: Verdana;
+ }
+ mark{
+    background-color:yellowgreen;
+ }
+ h3{
+    color: grey;
+ }
+ li{
+    color:grey;
+ }
+

@@ -1,0 +1,16 @@
+hr{
+    background-color: black;
+}
+text{
+    float: right;
+    text-align: justify;
+    font-family: Verdana;
+ }
+ container{
+    margin: 150px auto;
+    width: 50%;
+    padding: 20px;  
+  }
+  container.text{
+      float: right;
+  }

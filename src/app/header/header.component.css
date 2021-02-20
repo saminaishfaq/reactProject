@@ -1,0 +1,27 @@
+container{
+  margin: 150px auto;
+  width: 50%;
+  padding: 20px;  
+}
+img{
+    float: right;
+    width: 700px;
+    height: 400px;
+    padding: 0 10px 0 0;
+}
+text{
+    text-align: justify;
+    font-family: Verdana;
+}
+ fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+} 
+p{
+    color:gray;
+}
